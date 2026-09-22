@@ -1,0 +1,3 @@
+#!/bin/bash
+nombre=$'\\*\\\\\'"Best School"\\\\\'$?*****:)'
+printf 'Best School\n' > "$nombre"
