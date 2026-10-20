@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(($BREATHE ** $LOVE))"
+python3 -c 'import os; n=int(os.environ["BREATHE"]) ** int(os.environ["LOVE"]); print(n & ((1 << 64) - 1))'
