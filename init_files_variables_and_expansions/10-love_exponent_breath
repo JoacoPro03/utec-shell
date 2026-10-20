@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 -c 'exec("import os\nn=pow(int(os.environ[\"BREATHE\"]),int(os.environ[\"LOVE\"]))\nprint(n & ((1 << 64) - 1))")'
+echo $(( $BREATHE ** $LOVE ))
