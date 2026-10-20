@@ -1,2 +1,7 @@
 #!/usr/bin/env python3
-print(__import__('string').ascii_lowercase.replace('q', '').replace('e', ''))
+for number in range(ord('a'), ord('z') + 1):
+    if number != ord('e') and number != ord('q'):
+        print(
+            "{:c}".format(number),
+            end="\n" if number == ord('z') else ""
+        )
