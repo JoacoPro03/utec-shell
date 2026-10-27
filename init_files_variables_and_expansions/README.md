@@ -1,8 +1,10 @@
-# Init files, variables and expansions
+# Archivos de inicio, variables y expansiones
 
-Shell scripts for practicing aliases, variables, expansions, arithmetic, and shell initialization files.
+Scripts de shell para practicar alias, variables, expansiones, operaciones
+aritméticas y archivos de inicialización del shell.
 
 ## Scripts
 
-- `0-alias`: creates an `ls` alias that removes regular files in the current directory.
-- `1-hello_you` through `14-decimal_to_hexadecimal`: practice variables, PATH, expansions, arithmetic, and formatted output.
+- `0-alias`: crea un alias `ls` que elimina archivos regulares del directorio actual.
+- Desde `1-hello_you` hasta `14-decimal_to_hexadecimal`: practica variables, PATH,
+  expansiones, operaciones aritméticas y salida con formato.

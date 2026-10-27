@@ -1,4 +1,4 @@
-# Exception handling
+# Manejo de excepciones
 
-Exercises for handling common runtime errors with specific `try` and `except`
-blocks.
+Ejercicios para gestionar errores comunes en tiempo de ejecución mediante bloques
+específicos de `try` y `except`.

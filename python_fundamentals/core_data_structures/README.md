@@ -1,3 +1,3 @@
-# Core data structures
+# Estructuras de datos básicas
 
-Exercises for working with lists, tuples, sets, and dictionaries in Python.
+Ejercicios para trabajar con listas, tuplas, conjuntos y diccionarios en Python.

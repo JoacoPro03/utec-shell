@@ -1,3 +1,3 @@
-# I/O Redirections and Filters
+# Redirecciones de entrada/salida y filtros
 
-Scripts for practicing shell input/output redirections and filters.
+Scripts para practicar redirecciones de entrada y salida del shell, además de filtros.

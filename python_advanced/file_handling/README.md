@@ -1,3 +1,3 @@
-# File handling
+# Manejo de archivos
 
-Exercises for reading, writing, and safely managing text files in Python.
+Ejercicios para leer, escribir y gestionar archivos de texto de forma segura en Python.

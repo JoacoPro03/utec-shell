@@ -1,3 +1,3 @@
-# Python control flow
+# Flujo de control en Python
 
-Exercises for conditional statements and basic control flow in Python.
+Ejercicios sobre instrucciones condicionales y flujo de control básico en Python.

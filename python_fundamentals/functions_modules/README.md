@@ -1,4 +1,4 @@
-# Functions and modules
+# Funciones y módulos
 
-Exercises for defining reusable functions, importing them from other Python
-files, and controlling execution with `if __name__ == "__main__":`.
+Ejercicios para definir funciones reutilizables, importarlas desde otros archivos
+de Python y controlar la ejecución con `if __name__ == "__main__":`.
