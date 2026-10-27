@@ -1,4 +1,3 @@
 # Classes and object model
 
-Exercises for defining Python classes, creating instances, and modeling object
-state and behavior.
+Ejercicios para definir clases en Python, crear instancias y modelar el estado y el comportamiento de los objetos.
